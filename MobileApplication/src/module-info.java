@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author rsuva
+ *
+ */
+module MobileApplication {
+}
